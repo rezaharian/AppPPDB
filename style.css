@@ -1,0 +1,23 @@
+
+.jumbotron{
+    padding-top: 6rem ;
+    background-color: #f6f9fa;
+}
+#projects{
+    background-color: #f0f6f8;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+body{
+
+    min-height: 100%;
+}
+
+@media only screen and  (max-width : 780px){
+   .card1 {
+       width:160px;
+   } 
+}
